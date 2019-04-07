@@ -1,0 +1,29 @@
+{
+  "water_calc_project" : {
+    "unit_info" : [
+      {  "1_meter_cube" :  "= 500 AMD",
+      },
+      {
+        "low_mCube" : "50 meter cube" ,
+        "avg_mCube" : "80 meter cube" ,
+        "high_mCube" : "120 meter cube"
+       },
+      {
+        "low_price" : "60 AMD",
+        "avg_price" : "100 AMD",
+        "high_price" : "150 AMD"
+      }
+    ],
+    "user_info" : [
+      {
+      "FullName": "",
+      "Age" : "",
+      "Email" : "",
+      "Address" : "",
+      "User_ID" : "",
+      "usage_date" : ""
+    }
+      ]
+  }
+}
+
