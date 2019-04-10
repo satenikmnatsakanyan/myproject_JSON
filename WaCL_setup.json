@@ -21,7 +21,18 @@
       "Email" : "",
       "Address" : "",
       "User_ID" : "",
-      "usage_date" : ""
+      "usage" : [
+        {
+          "date": "asdasdasd",
+          "used" : 34535.5,
+          "isPaid" : false
+        },
+        {
+          "date": "asdasdasd",
+          "used" : 34535.5,
+          "isPaid" : false
+        }
+      ]
     }
       ]
   }
